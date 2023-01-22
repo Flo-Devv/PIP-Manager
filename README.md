@@ -1,4 +1,4 @@
-# PIP-Manager: A new solution to organize your python modules
+# PIP-Manager: A new solution to organize your python modules ([latest release](https://github.com/FIo-dev/PIP-Manager/releases/tag/r1.0-beta))
 ### Features:
 • Clean/Optimized UI
 <p>
