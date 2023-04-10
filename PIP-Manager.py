@@ -6,7 +6,7 @@ from requests import get
 from ctypes import windll
 from threading import Thread
 from re import sub
-
+print('Hello world')
 #------------------------------------Functions----------------------------------------------------------------
 
 # Action définie pour chaque nouvel élément séléctionné depuis la liste
